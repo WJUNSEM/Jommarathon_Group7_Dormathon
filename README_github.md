@@ -85,25 +85,12 @@ business-solution/
 - **Storage**: JSON file-based persistent storage
 - **Language**: Python 3.13
 - **Platform**: WorkBuddy AI
-
-## How to Upload to GitHub
-
-1. Download and extract the ZIP file
-2. Go to https://github.com/WJUNSEM/Jommarathon_Group7_Dormathon
-3. Click "Add file" > "Upload files"
-4. Drag the `business-solution/` folder and `README.md` into the upload area
-5. Add a commit message: "feat: add Katsu Zushi Business Management System"
-6. Click "Commit changes"
-
-Alternatively, use git:
-```bash
-git clone https://github.com/WJUNSEM/Jommarathon_Group7_Dormathon.git
-cd Jommarathon_Group7_Dormathon
-# Copy business-solution/ folder and README.md here
-git add -A
-git commit -m "feat: add Katsu Zushi Business Management System"
-git push origin main
-```
+- 
+## How to use ?
+Download the .zip file and extract it
+Then go to Tencent WorkBuddy AI and open skills
+After that, go to Add Skill and choose Upload Project
+From the .zip file choose SKILL.md file and there should be ready to use
 
 ## License
 
