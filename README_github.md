@@ -1,4 +1,4 @@
-# Katsu Zushi Business Management System
+# Business Management System
 
 An integrated F&B business management skill for WorkBuddy AI, designed for **Katsu Zushi** (Japanese sushi restaurant).
 
